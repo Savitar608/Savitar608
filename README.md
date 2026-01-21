@@ -4,7 +4,7 @@
 
 I am a **Software Development Engineer** with over **3 years of experience** in backend development, microservices, and cloud-native architectures. I previously worked as an **SDE-2** at **Head Digital Works**, where I optimized systems serving **15k+ daily users**.
 
-Currently, I am pursuing my **Master's in Cybersecurity** at Boston University, bridging the gap between scalable software engineering and secure system design.
+Currently, I am pursuing my **Master's in Computer Science with Specialization in Cybersecurity** at Boston University, bridging the gap between scalable software engineering and secure system design.
 
 ---
 
